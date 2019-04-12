@@ -1,0 +1,6 @@
+constSize,time_gap_solver,time_constraint_solver
+2,0.109,0.169
+4,0.091,1.015
+8,0.105,7.61
+16,0.192,23.067
+32,0.465,143.539
